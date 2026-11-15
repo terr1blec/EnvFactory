@@ -147,7 +147,7 @@ To visualize the generation pipeline, run [`src/app/app.py`](src/app/app.py).
 
 ## 🚄 SFT
 
-We use [LlamaFactory](https://github.com/hiyouga/LLaMAFactory) for SFT training. Add the following entry to your dataset config:
+We use [LlamaFactory](https://github.com/hiyouga/LLaMA-Factory) for SFT training. Add the following entry to your dataset config:
 
 ```json
 "env_factory_sft": {
