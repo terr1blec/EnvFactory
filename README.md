@@ -129,7 +129,7 @@ python -m src.gen.env_gen --resume envs/intermediate/Calendar_checkpoint.json
 ## 📦 Tool-use Trajectories Synthesis
 
 1. Follow the example in [`examples/load_tool_graph.ipynb`](examples/load_tool_graph.ipynb) to save `graph.pkl` locally.
-2. Run [`examples/synthesize_query.py`](examples/sythesize_query.py) to synthesize tool-use trajectories.
+2. Run [`examples/sythesize_query.py`](examples/sythesize_query.py) to synthesize tool-use trajectories.
 
 ---
 
